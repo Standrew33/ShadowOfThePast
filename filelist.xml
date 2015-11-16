@@ -1,0 +1,6 @@
+<download name="shadowofthepast" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="142465" md5="ea692498d4346a30d4fbea26d70cc816"/>
+ </files>
+</download>
